@@ -16,7 +16,7 @@ isolate the node 1 as the remote memory
 
 if __name__ == '__main__':
     sysReserveCap = 2
-    WSSCapicaty = 400  # the WSS
+    WSSCapicaty = 200  # the WSS
 
     remoteDRAM_capacity = 400
     totalDRAM_capacity = int(512 * 2)
