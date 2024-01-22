@@ -7,7 +7,7 @@ the socket 1 starts from 192, the first 2 GB belongs to the system
 
 if __name__ == '__main__':
     startLocation = 192
-    initialCapicaty = 10
+    initialCapicaty = 10 # means WSS
     ratio = 0.2
     endLocation = 384
     for ratio in [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1]:

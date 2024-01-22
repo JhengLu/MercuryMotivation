@@ -1,7 +1,11 @@
 import statistics
-times_in_seconds = [13.31,
-13.29,
-13.35
+times_in_seconds = [21.1,
+20.96,
+19.42
+
+
+
+
 
 
 
